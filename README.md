@@ -1,10 +1,12 @@
-👋 Nice to meet you, I'm Davide!
-
+# **About Me:**
+👋 Nice to meet you, I'm Davide Proglio!
 🧑‍🎓 Master Degree in Computer Engineering at Politecnico di Torino  
 📍 Based in Turin (IT)  
 🚀 Passionate about technology and innovation.
 
-🛠️ Tech Stack  
+---
+
+# 🛠️ **Tech Stack:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -13,7 +15,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-📫 Let's Connect!  
+---
+
+# 📫 **Contacts:**
+Let's Connect!  
 **davide.proglio@gmail.com**  
 **s324103@studenti.polito.it**
 
