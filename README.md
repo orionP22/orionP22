@@ -14,7 +14,7 @@
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 # 📫 **Contacts:**
-📧 You can reach me at: 
+📧 You can reach me at:  
 **davide.proglio@gmail.com**  
 **s324103@studenti.polito.it**
 
