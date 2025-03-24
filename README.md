@@ -4,8 +4,6 @@
 📍 Based in Turin (IT)  
 🚀 Passionate about technology and innovation.
 
----
-
 # 🛠️ **Tech Stack:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -14,8 +12,6 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
 
 # 📫 **Contacts:**
 Let's Connect!  
