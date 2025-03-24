@@ -1,5 +1,5 @@
 # **About Me:**
-👋 Nice to meet you, I'm Davide Proglio!
+👋 Nice to meet you, I'm Davide Proglio!  
 🧑‍🎓 Master Degree in Computer Engineering at Politecnico di Torino  
 📍 Based in Turin (IT)  
 🚀 Passionate about technology and innovation.
