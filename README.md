@@ -14,8 +14,8 @@
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 📫 Let's Connect!  
-[![Email](https://img.shields.io/badge/Email-s324103@studenti.polito.com-red?style=for-the-badge&logo=gmail)](mailto:s324103@studenti.polito.com)  
-[![Email](https://img.shields.io/badge/Email-davide.proglio@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:davide.proglio@gmail.com)
+**davide.proglio@gmail.com** 
+**s324103@studenti.polito.it**
 
 
 <!--
